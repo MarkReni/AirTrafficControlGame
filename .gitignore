@@ -1,0 +1,7 @@
+*.class
+*.cache
+build.sbt
+build.properties
+target/
+.bsp/
+.idea/
